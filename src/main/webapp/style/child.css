@@ -1,0 +1,16 @@
+.smallinput{
+	width: 30%;
+	margin-left:2%;
+	display: inline-block;
+}
+
+.larginput{
+	width: 30%;
+	margin-left:2%;
+	display: inline-block;
+}
+
+.image-area{
+	width: 100%;
+	height: 150px;	
+}
